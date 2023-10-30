@@ -1,10 +1,6 @@
 # Dmitry Shurov
 
-Software Engineer, Pipeline Technical Director
-
-[TopTal member](https://www.toptal.com/resume/dmitry-shurov)
-
-[Solvery mentor](https://solvery.io/en/mentor/dmitry_shurov)
+Software R&D Engineer
 
 [LinkedIn](https://linkedin.com/in/dmitry-shurov)
 
